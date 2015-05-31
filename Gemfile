@@ -14,6 +14,8 @@ group :test do
   gem 'selenium-webdriver', '2.35.1'
   gem 'capybara', '2.1.0'
 end
+
+gem 'bootstrap-sass', '2.3.2.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.5'
 # Use Uglifier as compressor for JavaScript assets

@@ -29,6 +29,10 @@ gem 'coffee-script-source', '1.8.0'
 gem 'jquery-rails', '3.0.4'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks', '1.1.1'
+
+gem 'sprockets', '2.11.0'
+
+gem 'bcrypt-ruby','~> 3.1.0', require: 'bcrypt'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '1.0.2'
 # bundle exec rake doc:rails generates the API under doc/api.
